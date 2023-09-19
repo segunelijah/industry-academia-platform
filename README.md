@@ -1,2 +1,10 @@
-# industry-academia-platform
-This project work focuses on creating an innovative and collaborative platform, where industry and academia can come together to address real-world challenges and foster mutual growth. The aim is to bridge the gap between these two domains and facilitate knowledge exchange, problem-solving, and research showcase.
+
+  # Collaboration page
+
+  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+
+  To preview and run the project on your device:
+  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+  2) In the terminal, run `npm install`
+  3) Run `npm start` to view project in browser
+  
